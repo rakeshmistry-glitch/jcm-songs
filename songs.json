@@ -1,7 +1,7 @@
 [
     {
         "id":  "s1",
-        "title":  "#ANKUSH RAJA Aso Chhath Karab Naihar Mein",
+        "title":  "Arag dehab suraj dev ke",
         "artist":  "Singer",
         "cat":  "kharna",
         "url":  "audio/song1.mp3",
@@ -17,7 +17,7 @@
     },
     {
         "id":  "s3",
-        "title":  "#chhat 2020 अवधेश प्रेमी यादव का नया छठ वीडियो खींचा ए देवरु हमरा दउरा के फोटो",
+        "title":  "Koshi bharaye lagal",
         "artist":  "Singer",
         "cat":  "kharna",
         "url":  "audio/song3.mp3",
@@ -25,7 +25,7 @@
     },
     {
         "id":  "s4",
-        "title":  "#chhath 2020 अवधेश प्रेमी यादव का एक और नया छठ वीडियो करियाका छांवड़ा आईल बा घटवा पर झार के",
+        "title":  "Aahe adit mal",
         "artist":  "Singer",
         "cat":  "kharna",
         "url":  "audio/song4.mp3",
@@ -33,7 +33,7 @@
     },
     {
         "id":  "s5",
-        "title":  "#Khesari Lal Yadav Thoka Taani Thekua",
+        "title":  "ughi ughi adit mal",
         "artist":  "Singer",
         "cat":  "kharna",
         "url":  "audio/song5.mp3",
@@ -41,7 +41,7 @@
     },
     {
         "id":  "s6",
-        "title":  "# ! दउरा लेके आवो ना रे ! #Mithu Marshal का इस साल का वायरल छठ गीत 2024 ! Daura Leke Aawo Na Re",
+        "title":  "kawan kalamawa se likhal",
         "artist":  "Singer",
         "cat":  "kharna",
         "url":  "audio/song6.mp3",
@@ -49,7 +49,7 @@
     },
     {
         "id":  "s7",
-        "title":  "# #Khesari Lal Yadav बहंगी लचकत जाय #Shilpi Raj Bahangi Lachkat Jaye Chhath Geet 2024",
+        "title":  "Arghiya ke ber bhail",
         "artist":  "Singer",
         "cat":  "kharna",
         "url":  "audio/song7.mp3",
@@ -65,7 +65,7 @@
     },
     {
         "id":  "s9",
-        "title":  "# अईहाs ससुरारे जीजू दुलारे #Ankush Raja, #Shivani Singh Bhojpuri Chhath Geet 2024",
+        "title":  "kekara khatir bhukhelu",
         "artist":  "Singer",
         "cat":  "kharna",
         "url":  "audio/song9.mp3",
@@ -73,7 +73,7 @@
     },
     {
         "id":  "s10",
-        "title":  "# घटिया पर मिलबौ सोनवा #Saurabh Sugam Yadav, #Khushi Kakkar #Maghi Chhath Puja Song 2024",
+        "title":  "bhore bhore ghatiya",
         "artist":  "Singer",
         "cat":  "kharna",
         "url":  "audio/song10.mp3",
@@ -774,7 +774,7 @@
         "cat":  "kharna",
         "url":  "audio/song97.mp3",
         "lyrics":  "Lyrics here"
-    }, 
+    },
     {
         "id":  "s98",
         "title":  "Baanjhi Kewdwa Dhaile Thaadh BHOJPURI CHHATH GEET SHARDA SINHA I VideoI MAHIMA CHHATHI MAIYA KE",
